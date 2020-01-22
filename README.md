@@ -5,6 +5,13 @@
 
 A ideia do projeto é criar um aplicativo semelhante ao do Twitter, usando a stack Node.js, ReactJS e React Native.
 
+## Funcionalidades
+
+- Criação de Tweets
+- Listar todos os Tweets
+- Tweets podem receber Likes
+- Tweets e Likes atualizam em tempo real
+
 ## Backend
 
 Para executar o backend siga as instruções do arquivo [README.md](https://github.com/DouglasVarollo/OmniStack5/blob/master/backend/README.md) que está na pasta backend.
