@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "mongoose": "^5.13.20",
     "socket.io": "^2.4.0"
   },
